@@ -1,4 +1,3 @@
-
 let p = true;
 let q = true;
 // ítem 3 tabla a. Fila 1 NOT p

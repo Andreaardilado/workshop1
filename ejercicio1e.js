@@ -3,7 +3,6 @@
 abecedario y muestre en consola el valor booleano que indique si es o no 
 una vocal.*/
 
-
 let letra = prompt("Ingrese una letra");
 
 const vocal1 = "a";

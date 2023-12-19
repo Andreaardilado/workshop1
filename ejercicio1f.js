@@ -8,11 +8,6 @@ que muestre el valor booleano que indique si el turista es del país o
 extranjero. Todos los No. de pasaporte que inicien con la letra A son 
 nacionales.*/
 
-/*let numeroPasaporte = prompt("Ingrese el primer dígito del pasaporte:")
-let salidaNacional = numeroPasaporte === "a";
-
-console.log("Salida Nacional:" + salidaNacional);*/
-
 let numeroPasaporte = prompt ("Ingrese elprimer dígito de su pasaporte");
 const salidaNalMin = "a";
 const salidaNalMayus ="A";
