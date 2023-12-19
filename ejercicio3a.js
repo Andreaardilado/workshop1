@@ -17,8 +17,8 @@ let notP2 = !p2;
 console.log(notP2);
 
 //ítem 3 tabla a. Fila 2 NOT p AND q
-let notP1AndQ2 = notP2 && q2;
-console.log(notP1AndQ2);
+let notP2AndQ2 = notP2 && q2;
+console.log(notP2AndQ2);
 
 //----------------------------------------------
 
