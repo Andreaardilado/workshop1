@@ -1,58 +1,58 @@
-let p = true;
-let q = true;
+let s = true;
+let r = true;
 // ítem 3 tabla b. Fila 1 NOT p
-let notP = !p;
-console.log(notP);
+let notS = !s;
+console.log(notS);
 
 //ítem 3 tabla b. Fila 1 NOT q
-let notQ = !q;
-console.log(notQ);
+let notR = !r;
+console.log(notR);
 
 //ítem 3 tabla b. Fila 1 NOT p AND NOT q
-let notPAndQ = notP && notQ;
-console.log(notPAndQ);
+let notSAndR = notS && notR;
+console.log(notSAndR);
 
 //----------------------------------------------
-let p1 = true;
-let q1 = false;
+let s1 = true;
+let r1 = false;
 // ítem 3 tabla b. Fila 2 NOT p
-let notP1 = !p1;
-console.log(notP1);
+let notS1 = !s1;
+console.log(notS1);
 
 //ítem 3 tabla b. Fila 2 NOT q
-let notQ1 = !q1;
-console.log(notQ1);
+let notR1 = !r1;
+console.log(notR1);
 
 //ítem 3 tabla b. Fila 2 NOT p AND NOT q
-let notP1AndQ1 = notP1 && notQ1;
-console.log(notP1AndQ1);
+let notS1AndR1 = notS1 && notR1;
+console.log(notS1AndR1);
 
 //----------------------------------------------
-let p2 = false;
-let q2 = true;
+let s2 = false;
+let r2 = true;
 // ítem 3 tabla b. Fila 3 NOT p
-let notP2 = !p2;
-console.log(notP2);
+let notS2 = !s2;
+console.log(notS2);
 
 //ítem 3 tabla b. Fila 3 NOT q
-let notQ2 = !q2;
-console.log(notQ2);
+let notR2 = !r2;
+console.log(notR2);
 
 //ítem 3 tabla b. Fila 3 NOT p AND NOT q
-let notP2AndQ2 = notP2 && notQ2;
-console.log(notP2AndQ2);
+let notS2AndR2 = notS2 && notR2;
+console.log(notS2AndR2);
 
 //----------------------------------------------
-let p3 = false;
-let q3 = false;
+let s3 = false;
+let r3 = false;
 // ítem 3 tabla b. Fila 4 NOT p
-let notP3 = !p3;
-console.log(notP3);
+let notS3 = !s3;
+console.log(notS3);
 
 //ítem 3 tabla b. Fila 4 NOT q
-let notQ3 = !q3;
-console.log(notQ3);
+let notR3 = !r3;
+console.log(notR3);
 
 //ítem 3 tabla b. Fila 4 NOT p AND NOT q
-let notP3AndQ3 = notP3 && notQ3;
-console.log(notP3AndQ3);
+let notS3AndR3 = notS3 && notR3;
+console.log(notS3AndR3);
